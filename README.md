@@ -2,23 +2,25 @@
 
 <h1 align="center">
  <a href="https://github.com/jnbdotdev">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+Everyone!;I'm+James&font=Fira%20Code&center=true&width=440&height=60&color=b5d1ff&vCenter=true&pause=500&size=30" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+Everyone!;I'm+James&font=Fira%20Code&center=true&width=440&height=60&color=b5d1ff&vCenter=true&pause=200&size=30" />
  </a>
 </h1>
-<br>
+
 <h3 align="center">A rising Full-Stack Developer from Brazil</h3>
 
 - 🔭 Today I focus on Full Stack development
 - 🌱 I'm learning Java frameworks
 - ⚡ Fun fact: Programmer and rhyme battle MC in my spare time
-<br>
+
  <div class="init">
    <a href="https://github.com/jnbdotdev">
      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jnbdotdev&show_icons=true&bg_color=DEG,010b19,03214d,0a1220&text_color=e2f1ff&title_color=ffffff&icon_color=c6e4ff">
      <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnbdotdev&layout=compact&langs_count=6&bg_color=DEG,010b19,03214d,0a1220&text_color=e2f1ff&title_color=ffffff&icon_color=c6e4ff">
    </a>
  </div>
-<br>
+ 
+<br/>
+<hr/>
 
 <h2 align="center">🛠️Languages, Frameworks and Tools🛠️</h2>
 <br/>
@@ -37,7 +39,16 @@
   <img align="center" alt="JSQLite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
 </div>
 
-##
+<br/>
+<hr/>
+
+<div align="center">
+ <h2>❇️ My Contributions ❇️</h2>
+ <br>
+ <img alt="Hungry Snake Game" src="https://raw.githubusercontent.com/jnbdotdev/jnbdotdev/output/github-contribution-grid-snake.svg" />
+
+ <br/><br/><br/>
+</div>
 
 <div> 
   <a href="https://instagram.com/jnb.019" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -45,6 +56,4 @@
   <a href="https://www.linkedin.com/in/jameshenriquesp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br><br>
-
-![Snake animation](https://github.com/jnbdotdev/jnbdotdev/blob/output/github-contribution-grid-snake.svg)
 
