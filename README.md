@@ -9,6 +9,11 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+Everyone!&font=Gabarito&center=true&width=440&height=60&color=AA4BD7&vCenter=true&pause=200&size=30" />
  </a>
 </h1>
+<div align="center"> 
+  <a href="https://instagram.com/jnb.019" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jameshenriquesp019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jameshenriquesp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:35034d,100:690b96&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=header"/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jnbdotdev.jnbdotdev&left_text=Viewers&left_color=black&right_color=purple" /><br>
 <h3 align="center">A rising Full-Stack Developer from Brazil</h3><br>
@@ -27,8 +32,7 @@
  
 <br/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:35034d,100:690b96&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=footer"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:35034d,100:690b96&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=header"/>
-<br/><br/>
+<br/>
 
 <h2 align="center">🛠️Languages, Frameworks and Tools🛠️</h2>
 <br/>
@@ -47,22 +51,15 @@
   <img align="center" alt="JSQLite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:35034d,100:690b96&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=footer"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:35034d,100:690b96&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=header"/>
 
 <div align="center">
  <h2>❇️ My Contributions ❇️</h2>
  <img alt="github-snake" src="https://raw.githubusercontent.com/jnbdotdev/jnbdotdev/output/github-contribution-grid-snake-dark.svg" />
 
- <br/><br/><br/>
+ <br/><br/>
 </div>
-
-<div> 
-  <a href="https://instagram.com/jnb.019" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jameshenriquesp019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jameshenriquesp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-<br><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:35034d,100:690b96&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=footer"/>
 
