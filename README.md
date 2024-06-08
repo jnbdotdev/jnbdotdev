@@ -1,21 +1,27 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jnbdotdev.jnbdotdev&left_text=Viewers&left_color=black&right_color=darkblue" />
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
+ <img alt="James Patricio · Freelancer · Full-Stack Developer · Data Analyst" src="./header.svg" width="100%" />
+</picture>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jnbdotdev.jnbdotdev&left_text=Viewers&left_color=black&right_color=purple" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:35034d,100:690b96&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=header"/>
 <h1 align="center">
  <a href="https://github.com/jnbdotdev">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+Everyone!;I'm+James&font=Fira%20Code&center=true&width=440&height=60&color=b5d1ff&vCenter=true&pause=200&size=30" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+Everyone!;I'm+James+:)&font=Gabarito&center=true&width=440&height=60&color=eac6ff&vCenter=true&pause=200&size=30" />
  </a>
 </h1>
 
-<h3 align="center">A rising Full-Stack Developer from Brazil</h3>
+<h3 align="center">A rising Full-Stack Developer from Brazil</h3><br>
 
 - 🔭 Today I focus on Full Stack development
 - 🌱 I'm learning Java frameworks
 - ⚡ Fun fact: Programmer and rhyme battle MC in my spare time
 
+<br>
  <div class="init">
    <a href="https://github.com/jnbdotdev">
-     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jnbdotdev&show_icons=true&bg_color=DEG,010b19,03214d,0a1220&text_color=e2f1ff&title_color=ffffff&icon_color=c6e4ff">
-     <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnbdotdev&layout=compact&langs_count=6&bg_color=DEG,010b19,03214d,0a1220&text_color=e2f1ff&title_color=ffffff&icon_color=c6e4ff">
+     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jnbdotdev&show_icons=true&bg_color=DEG,0f0119,35034d,200a1f&text_color=fbe2ff&title_color=ffffff&icon_color=f4c6ff">
+     <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnbdotdev&layout=compact&langs_count=6&bg_color=DEG,0f0119,35034d,200a1f&text_color=fbe2ff&title_color=ffffff&icon_color=f4c6ff">
    </a>
  </div>
  
