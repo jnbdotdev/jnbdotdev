@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
- <img alt="James Patricio · Freelancer · Full-Stack Developer · Data Analyst" src="./header.svg" width="100%" />
+ <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="header.svg" />
+ <img alt="James Patricio · Freelancer · Full-Stack Developer · Data Analyst" src="header.svg" width="100%" />
 </picture>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jnbdotdev.jnbdotdev&left_text=Viewers&left_color=black&right_color=purple" />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:35034d,100:690b96&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=header"/>
