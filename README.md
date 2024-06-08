@@ -3,14 +3,14 @@
  <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
  <img alt="James Patricio · Freelancer · Full-Stack Developer · Data Analyst" src="./header.svg" width="100%" />
 </picture>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jnbdotdev.jnbdotdev&left_text=Viewers&left_color=black&right_color=purple" />
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:35034d,100:690b96&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=header"/>
+
 <h1 align="center">
  <a href="https://github.com/jnbdotdev">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+Everyone!;I'm+James+:)&font=Gabarito&center=true&width=440&height=60&color=eac6ff&vCenter=true&pause=200&size=30" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+Everyone!&font=Gabarito&center=true&width=440&height=60&color=AA4BD7&vCenter=true&pause=200&size=30" />
  </a>
 </h1>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:35034d,100:690b96&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=header"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jnbdotdev.jnbdotdev&left_text=Viewers&left_color=black&right_color=purple" /><br>
 <h3 align="center">A rising Full-Stack Developer from Brazil</h3><br>
 
 - 🔭 Today I focus on Full Stack development
@@ -26,7 +26,9 @@
  </div>
  
 <br/>
-<hr/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:35034d,100:690b96&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:35034d,100:690b96&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=header"/>
+<br/><br/>
 
 <h2 align="center">🛠️Languages, Frameworks and Tools🛠️</h2>
 <br/>
@@ -45,8 +47,10 @@
   <img align="center" alt="JSQLite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
 </div>
 
-<br/>
-<hr/>
+<br/><br/><br/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:35034d,100:690b96&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:35034d,100:690b96&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=header"/>
 
 <div align="center">
  <h2>❇️ My Contributions ❇️</h2>
